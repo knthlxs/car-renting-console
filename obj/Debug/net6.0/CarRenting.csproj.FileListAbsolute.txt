@@ -1,0 +1,14 @@
+C:\Users\kenth\source\repos\CarRenting\bin\Debug\net6.0\CarRenting.exe
+C:\Users\kenth\source\repos\CarRenting\bin\Debug\net6.0\CarRenting.deps.json
+C:\Users\kenth\source\repos\CarRenting\bin\Debug\net6.0\CarRenting.runtimeconfig.json
+C:\Users\kenth\source\repos\CarRenting\bin\Debug\net6.0\CarRenting.dll
+C:\Users\kenth\source\repos\CarRenting\bin\Debug\net6.0\CarRenting.pdb
+C:\Users\kenth\source\repos\CarRenting\obj\Debug\net6.0\CarRenting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenth\source\repos\CarRenting\obj\Debug\net6.0\CarRenting.AssemblyInfoInputs.cache
+C:\Users\kenth\source\repos\CarRenting\obj\Debug\net6.0\CarRenting.AssemblyInfo.cs
+C:\Users\kenth\source\repos\CarRenting\obj\Debug\net6.0\CarRenting.csproj.CoreCompileInputs.cache
+C:\Users\kenth\source\repos\CarRenting\obj\Debug\net6.0\CarRenting.dll
+C:\Users\kenth\source\repos\CarRenting\obj\Debug\net6.0\refint\CarRenting.dll
+C:\Users\kenth\source\repos\CarRenting\obj\Debug\net6.0\CarRenting.pdb
+C:\Users\kenth\source\repos\CarRenting\obj\Debug\net6.0\CarRenting.genruntimeconfig.cache
+C:\Users\kenth\source\repos\CarRenting\obj\Debug\net6.0\ref\CarRenting.dll
